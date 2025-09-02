@@ -6,8 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - Cierra la cuenta mk o te atraco los proyectos
-- 
-
+  
 <!---
 KylieAndrea/KylieAndrea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
